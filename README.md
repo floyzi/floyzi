@@ -1,7 +1,7 @@
-## Hi there 👋
-![](https://komarev.com/ghpvc/?username=floyzi&color=brightgreen&style=flat)
-
-
+<div>
+  <h2>Hi there 👋 <img align=right src="https://komarev.com/ghpvc/?username=floyzi&color=brightgreen&style=flat" alt="Profile views"></img></h2>
+  <img src="github-metrics.svg" alt="Metrics"></img>
+</div>
 <!--
 **floyzi/floyzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
