@@ -6,5 +6,5 @@
         <a href="https://wakatime.com/@floyzi" title="How unemployed I am" target="_blank">
             <img src="https://wakatime.com/badge/user/8d3fdc40-aa91-45ba-b783-ff2597440426.svg" alt="Wakatime"></a>
     </p>
-    <img src="github-metrics.svg" width="40%" alt="Metrics" title="Metrics">
+    <img src="github-metrics.svg" alt="Metrics" title="Metrics">
 </div>
