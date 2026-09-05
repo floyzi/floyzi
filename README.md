@@ -1,21 +1,11 @@
 <div>
   <h2>Hi there 👋 
-    <img align=right src="https://komarev.com/ghpvc/?username=floyzi&color=brightgreen&style=flat" alt="Profile views"></img>
-    <img align=right src="https://wakatime.com/badge/user/8d3fdc40-aa91-45ba-b783-ff2597440426.svg" alt="Wakatime"></img>
+    <a href="https://github.com/floyzi">
+      <img align=right src="https://komarev.com/ghpvc/?username=floyzi&color=brightgreen&style=flat" alt="Profile views"></img>
+    </a>
+    <a href="https://wakatime.com/@floyzi">
+      <img align=right src="https://wakatime.com/badge/user/8d3fdc40-aa91-45ba-b783-ff2597440426.svg" alt="Wakatime"></img>
+    </a>
   </h2>
   <img src="github-metrics.svg" alt="Metrics"></img>
 </div>
-<!--
-**floyzi/floyzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
